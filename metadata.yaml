@@ -1,11 +1,16 @@
 _repo: The-Real-Lady-Hilda_64892
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64892-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Croker, Bithia Mary
     gutenberg_agent_id: '53087'
     url: http://www.gutenberg.org/2009/agents/53087
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64892#The-Real-Lady-Hilda
 gutenberg_issued: '2021-03-21'
 gutenberg_type: Text
 identifiers:
